@@ -66,3 +66,5 @@ Monitoring and Logging: Using AWS CloudWatch for logging and monitoring of the i
 Load Balancing: AWS Load Balancer ensures the distribution of traffic and fault tolerance.
 
 Backup and Restore: State files are stored in an S3 bucket for recovery and historical purposes.
+
+All infrastructure can be deployed using deploy.yml worflow triggered on push/merge request.
