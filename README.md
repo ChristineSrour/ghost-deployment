@@ -1,6 +1,6 @@
-# ghost-deployment
+# Infrastructure and CI/CD Setup using Terraform, AWS ECS, and AWS Developer Tools
 
-Infrastructure and CI/CD Setup using Terraform, AWS ECS, and AWS Developer Tools
+
 This project sets up an AWS infrastructure to deploy a containerized GHOST application using Terraform for infrastructure as code (IaC), AWS Elastic Container Service (ECS) with Fargate for running containers without managing servers, and a continuous integration and continuous deployment (CI/CD) pipeline using AWS developer tools.
 
 Infrastructure Overview
